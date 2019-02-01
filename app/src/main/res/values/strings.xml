@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fishing Spots</string>
+    <string name="title_activity_main">Fishing Spots</string>
+    <string name="action_done">Save</string>
+    <string name="spot_details_instruction">Your current location will be added to the fishing spot ,Just make sure that the GPS is open and fill the details below.</string>
+    <string name="water_depth_in_m">Water Depth (in meters)</string>
+    <string name="fish_species">Fish Species (comma separated)</string>
+
+    <string name="spot_details">Spot Details</string>
+
+    <string name="water_depth">Water Depth</string>
+    <string name="fish_species_det">Fish Species</string>
+    <string name="date">Date and Time</string>
+    <string name="appwidget_text">Spots</string>
+    <string name="add_widget">Add widget</string>
+    <string name="spots">Spots</string>
+    <string name="add_spot">Add New Spot</string>
+    <string name="please_fill_fields">please fill all fields to add new spot</string>
+
+</resources>
